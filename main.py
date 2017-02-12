@@ -43,19 +43,26 @@ log.debug("Connecting to reddit")
 
 once = False
 debug = False
-if len(sys.argv) > 1 and sys.argv[1] == 'once':
+user = None
+if len(sys.argv) >= 2:
+	user = sys.argv[1]
 	for arg in sys.argv:
 		if arg == 'once':
 			once = True
 		elif arg == 'debug':
 			debug = True
+else:
+	log.error("No user specified, aborting")
+	sys.exit(0)
 
-config = configparser.ConfigParser()
-config.read('oauth.ini')
 
-r = praw.Reddit(
-	'Watchful1BotTest'
-	,user_agent=USER_AGENT)
+try:
+	r = praw.Reddit(
+		user
+		,user_agent=USER_AGENT)
+except configparser.NoSectionError:
+	log.error("User "+user+" not in praw.ini, aborting")
+	sys.exit(0)
 
 signal.signal(signal.SIGINT, signal_handler)
 
