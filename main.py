@@ -34,6 +34,7 @@ if LOG_FILENAME is not None:
 	log_fileHandler.setFormatter(log_formatter_file)
 	log.addHandler(log_fileHandler)
 
+
 def signal_handler(signal, frame):
 	log.info("Handling interupt")
 	sys.exit(0)
