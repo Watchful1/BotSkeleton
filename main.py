@@ -54,11 +54,8 @@ config = configparser.ConfigParser()
 config.read('oauth.ini')
 
 r = praw.Reddit(
-	client_id=config['credentials']['client_id'],
-	client_secret=config['credentials']['client_secret'],
-	refresh_token=config['credentials']['refresh_token'],
-	user_agent=USER_AGENT,
-	log_request=0)
+	'Watchful1BotTest'
+	,user_agent=USER_AGENT)
 
 signal.signal(signal.SIGINT, signal_handler)
 
