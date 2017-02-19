@@ -39,6 +39,8 @@ def signal_handler(signal, frame):
 	log.info("Handling interupt")
 	sys.exit(0)
 
+signal.signal(signal.SIGINT, signal_handler)
+
 log.debug("Connecting to reddit")
 
 once = False
@@ -63,8 +65,6 @@ try:
 except configparser.NoSectionError:
 	log.error("User "+user+" not in praw.ini, aborting")
 	sys.exit(0)
-
-signal.signal(signal.SIGINT, signal_handler)
 
 while True:
 	startTime = time.perf_counter()
