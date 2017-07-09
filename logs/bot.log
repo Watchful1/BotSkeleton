@@ -1,0 +1,534 @@
+2017-02-12 17:28:35,329 - DEBUG - Connecting to reddit
+2017-02-12 17:28:50,064 - DEBUG - Connecting to reddit
+2017-02-12 17:30:39,269 - DEBUG - Connecting to reddit
+2017-02-12 17:30:39,269 - DEBUG - C:\Users\Greg\AppData\Roaming
+2017-02-12 17:31:00,984 - DEBUG - Connecting to reddit
+2017-02-12 17:31:00,985 - DEBUG - C:\Users\Greg\AppData\Roaming
+2017-02-12 17:31:01,493 - DEBUG - Starting run
+2017-02-12 17:31:05,196 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-02-12 17:31:05,196 - DEBUG - Run complete after: 3
+2017-02-12 17:39:31,886 - DEBUG - Connecting to reddit
+2017-02-12 17:40:39,222 - DEBUG - Connecting to reddit
+2017-02-12 17:47:10,320 - DEBUG - Connecting to reddit
+2017-02-12 17:47:10,321 - ERROR - User C:/Users/Greg/Desktop/PyCharm/BotSkeleton/main.py not in praw.ini, aborting
+2017-02-12 17:47:23,909 - DEBUG - Connecting to reddit
+2017-02-12 17:47:23,910 - ERROR - User Watchful1BotTest1 not in praw.ini, aborting
+2017-02-12 17:47:32,657 - DEBUG - Connecting to reddit
+2017-02-12 17:47:32,658 - DEBUG - Starting run
+2017-02-12 17:47:33,080 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-02-12 17:47:33,080 - DEBUG - Run complete after: 0
+2017-06-23 19:11:53,282 - DEBUG - Connecting to reddit
+2017-06-23 19:11:53,561 - DEBUG - Starting run
+2017-06-23 19:11:53,998 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:11:53,998 - DEBUG - Run complete after: 0
+2017-06-23 19:11:56,329 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:12:33,087 - DEBUG - Connecting to reddit
+2017-06-23 19:12:33,090 - DEBUG - Starting run
+2017-06-23 19:12:33,565 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:12:33,565 - DEBUG - Run complete after: 0
+2017-06-23 19:12:35,812 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:12:48,562 - DEBUG - Starting run
+2017-06-23 19:12:48,562 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:12:48,562 - DEBUG - Run complete after: 0
+2017-06-23 19:21:36,529 - DEBUG - Connecting to reddit
+2017-06-23 19:21:36,534 - DEBUG - Starting run
+2017-06-23 19:21:36,985 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:21:36,985 - DEBUG - Run complete after: 0
+2017-06-23 19:21:39,300 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:39:11,281 - DEBUG - Connecting to reddit
+2017-06-23 19:39:11,284 - DEBUG - Starting run
+2017-06-23 19:39:11,713 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:39:11,713 - DEBUG - Run complete after: 0
+2017-06-23 19:39:14,223 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:39:26,715 - DEBUG - Starting run
+2017-06-23 19:39:26,715 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:39:26,715 - DEBUG - Run complete after: 0
+2017-06-23 19:39:41,716 - DEBUG - Starting run
+2017-06-23 19:39:41,716 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:39:41,716 - DEBUG - Run complete after: 0
+2017-06-23 19:39:50,607 - DEBUG - Connecting to reddit
+2017-06-23 19:39:50,609 - DEBUG - Starting run
+2017-06-23 19:39:51,009 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:39:51,009 - DEBUG - Run complete after: 0
+2017-06-23 19:39:53,323 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:40:06,024 - DEBUG - Starting run
+2017-06-23 19:40:06,024 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:40:06,024 - DEBUG - Run complete after: 0
+2017-06-23 19:40:21,025 - DEBUG - Starting run
+2017-06-23 19:40:21,025 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:40:21,025 - DEBUG - Run complete after: 0
+2017-06-23 19:40:30,042 - DEBUG - Connecting to reddit
+2017-06-23 19:40:30,044 - DEBUG - Starting run
+2017-06-23 19:40:30,442 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:40:30,442 - DEBUG - Run complete after: 0
+2017-06-23 19:40:32,748 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:40:42,929 - DEBUG - Connecting to reddit
+2017-06-23 19:40:42,931 - DEBUG - Starting run
+2017-06-23 19:40:43,419 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:40:43,419 - DEBUG - Run complete after: 0
+2017-06-23 19:40:45,674 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:40:58,423 - DEBUG - Starting run
+2017-06-23 19:40:58,423 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:40:58,423 - DEBUG - Run complete after: 0
+2017-06-23 19:41:14,412 - DEBUG - Connecting to reddit
+2017-06-23 19:41:14,414 - DEBUG - Starting run
+2017-06-23 19:41:14,835 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:41:14,835 - DEBUG - Run complete after: 0
+2017-06-23 19:41:17,086 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:41:29,829 - DEBUG - Starting run
+2017-06-23 19:41:29,829 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:41:29,829 - DEBUG - Run complete after: 0
+2017-06-23 19:41:44,830 - DEBUG - Starting run
+2017-06-23 19:41:44,830 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:41:44,830 - DEBUG - Run complete after: 0
+2017-06-23 19:52:46,119 - DEBUG - Connecting to reddit
+2017-06-23 19:52:46,121 - DEBUG - Starting run
+2017-06-23 19:52:46,827 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:52:46,827 - DEBUG - Run complete after: 0
+2017-06-23 19:52:49,136 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:53:25,053 - DEBUG - Connecting to reddit
+2017-06-23 19:53:25,055 - DEBUG - Starting run
+2017-06-23 19:53:25,441 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:53:25,442 - DEBUG - Run complete after: 0
+2017-06-23 19:53:27,684 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:53:27,684 - DEBUG - ['discord']
+2017-06-23 19:53:43,841 - DEBUG - Connecting to reddit
+2017-06-23 19:53:43,843 - DEBUG - Starting run
+2017-06-23 19:53:44,533 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:53:44,533 - DEBUG - Run complete after: 0
+2017-06-23 19:53:46,822 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:53:46,822 - DEBUG - ['discord']
+2017-06-23 19:57:14,542 - DEBUG - Connecting to reddit
+2017-06-23 19:57:14,544 - DEBUG - Starting run
+2017-06-23 19:57:14,988 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:57:14,988 - DEBUG - Run complete after: 0
+2017-06-23 19:57:17,231 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:57:17,231 - DEBUG - ['discord']
+2017-06-23 19:57:34,895 - DEBUG - Connecting to reddit
+2017-06-23 19:57:34,898 - DEBUG - Starting run
+2017-06-23 19:57:35,286 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:57:35,286 - DEBUG - Run complete after: 0
+2017-06-23 19:57:37,535 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:57:37,535 - DEBUG - ['discord']
+2017-06-23 19:57:37,535 - DEBUG - general
+2017-06-23 19:57:56,951 - DEBUG - Connecting to reddit
+2017-06-23 19:57:56,954 - DEBUG - Starting run
+2017-06-23 19:57:57,359 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 19:57:57,359 - DEBUG - Run complete after: 0
+2017-06-23 19:57:59,695 - DEBUG - Logged into discord as test-bot
+2017-06-23 19:57:59,696 - DEBUG - ['discord']
+2017-06-23 19:57:59,696 - DEBUG - general
+2017-06-23 20:00:07,546 - DEBUG - Connecting to reddit
+2017-06-23 20:00:07,548 - DEBUG - Starting run
+2017-06-23 20:00:08,207 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 20:00:08,207 - DEBUG - Run complete after: 0
+2017-06-23 20:00:10,495 - DEBUG - Logged into discord as test-bot
+2017-06-23 20:00:10,495 - DEBUG - ['discord']
+2017-06-23 20:00:10,495 - DEBUG - general
+2017-06-23 20:01:38,391 - DEBUG - Connecting to reddit
+2017-06-23 20:01:38,393 - DEBUG - Starting run
+2017-06-23 20:01:38,805 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 20:01:38,805 - DEBUG - Run complete after: 0
+2017-06-23 20:01:41,058 - DEBUG - Logged into discord as test-bot
+2017-06-23 20:02:44,791 - DEBUG - Connecting to reddit
+2017-06-23 20:02:44,795 - DEBUG - Starting run
+2017-06-23 20:02:45,204 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 20:02:45,204 - DEBUG - Run complete after: 0
+2017-06-23 20:02:47,463 - DEBUG - Logged into discord as test-bot
+2017-06-23 20:03:43,912 - DEBUG - Connecting to reddit
+2017-06-23 20:03:43,915 - DEBUG - Starting run
+2017-06-23 20:03:44,487 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 20:03:44,488 - DEBUG - Run complete after: 0
+2017-06-23 20:03:46,826 - DEBUG - Logged into discord as test-bot
+2017-06-23 20:38:56,583 - DEBUG - Connecting to reddit
+2017-06-23 20:40:11,374 - DEBUG - Connecting to reddit
+2017-06-23 20:40:49,287 - DEBUG - Starting run
+2017-06-23 20:40:49,687 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 20:40:49,687 - DEBUG - Run complete after: 0
+2017-06-23 20:40:51,993 - DEBUG - Logged into discord as test-bot
+2017-06-23 20:41:29,216 - DEBUG - Connecting to reddit
+2017-06-23 20:41:29,219 - DEBUG - Starting run
+2017-06-23 20:41:29,861 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-23 20:41:29,861 - DEBUG - Run complete after: 0
+2017-06-23 20:41:32,131 - DEBUG - Logged into discord as test-bot
+2017-06-24 12:40:47,868 - DEBUG - Connecting to reddit
+2017-06-24 12:40:48,344 - DEBUG - Starting run
+2017-06-24 12:40:48,786 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 12:40:48,786 - DEBUG - Run complete after: 0
+2017-06-24 12:40:51,159 - DEBUG - Logged into discord as test-bot
+2017-06-24 12:40:51,268 - DEBUG - test-bot#7269
+2017-06-24 12:40:52,752 - DEBUG - Watchful1#8126
+2017-06-24 12:44:16,880 - DEBUG - Watchful1#8126
+2017-06-24 12:44:19,997 - DEBUG - Connecting to reddit
+2017-06-24 12:44:19,999 - DEBUG - Starting run
+2017-06-24 12:44:20,395 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 12:44:20,395 - DEBUG - Run complete after: 0
+2017-06-24 12:44:22,706 - DEBUG - Logged into discord as test-bot
+2017-06-24 12:45:27,673 - DEBUG - Connecting to reddit
+2017-06-24 12:45:27,677 - DEBUG - Starting run
+2017-06-24 12:45:28,122 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 12:45:28,122 - DEBUG - Run complete after: 0
+2017-06-24 12:45:30,371 - DEBUG - Logged into discord as test-bot
+2017-06-24 12:45:30,476 - DEBUG - Bot started
+2017-06-24 12:45:30,476 - DEBUG - test-bot#7269
+2017-06-24 12:45:31,853 - DEBUG - !status
+2017-06-24 12:45:31,853 - DEBUG - Watchful1#8126
+2017-06-24 12:47:00,627 - DEBUG - Connecting to reddit
+2017-06-24 12:47:00,632 - DEBUG - Starting run
+2017-06-24 12:47:01,039 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 12:47:01,039 - DEBUG - Run complete after: 0
+2017-06-24 12:47:03,364 - DEBUG - Logged into discord as test-bot
+2017-06-24 12:47:03,468 - DEBUG - Bot started
+2017-06-24 12:47:03,468 - DEBUG - test-bot#7269
+2017-06-24 12:47:06,475 - DEBUG - !status
+2017-06-24 12:47:06,475 - DEBUG - Watchful1#8126
+2017-06-24 12:47:26,469 - DEBUG - Connecting to reddit
+2017-06-24 12:47:26,472 - DEBUG - Starting run
+2017-06-24 12:47:26,946 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 12:47:26,946 - DEBUG - Run complete after: 0
+2017-06-24 12:47:29,217 - DEBUG - Logged into discord as test-bot
+2017-06-24 12:47:29,309 - DEBUG - Bot started
+2017-06-24 12:47:29,309 - DEBUG - test-bot#7269
+2017-06-24 12:47:30,910 - DEBUG - !status
+2017-06-24 12:47:30,910 - DEBUG - Watchful1#8126
+2017-06-24 12:47:30,910 - DEBUG - PING1
+2017-06-24 12:47:30,910 - DEBUG - True
+2017-06-24 12:47:30,968 - DEBUG - Running
+2017-06-24 12:47:30,968 - DEBUG - test-bot#7269
+2017-06-24 12:49:10,427 - DEBUG - Connecting to reddit
+2017-06-24 12:49:10,430 - DEBUG - Starting run
+2017-06-24 12:49:10,840 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 12:49:10,840 - DEBUG - Run complete after: 0
+2017-06-24 12:49:13,144 - DEBUG - Logged into discord as test-bot
+2017-06-24 13:01:41,463 - DEBUG - Connecting to reddit
+2017-06-24 13:01:41,466 - DEBUG - Starting run
+2017-06-24 13:01:41,931 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 13:01:41,931 - DEBUG - Run complete after: 0
+2017-06-24 13:01:44,329 - DEBUG - Logged into discord as test-bot
+2017-06-24 13:02:04,988 - DEBUG - Connecting to reddit
+2017-06-24 13:02:04,991 - DEBUG - Starting run
+2017-06-24 13:02:05,604 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 13:02:05,605 - DEBUG - Run complete after: 0
+2017-06-24 13:02:07,864 - DEBUG - Logged into discord as test-bot
+2017-06-24 13:11:18,862 - DEBUG - Connecting to reddit
+2017-06-24 13:11:18,865 - DEBUG - Starting run
+2017-06-24 13:11:19,318 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 13:11:19,318 - DEBUG - Run complete after: 0
+2017-06-24 13:11:21,726 - DEBUG - Logged into discord as test-bot
+2017-06-24 14:19:22,536 - DEBUG - Connecting to reddit
+2017-06-24 14:19:22,776 - DEBUG - Starting run
+2017-06-24 14:19:23,229 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 14:19:23,229 - DEBUG - Run complete after: 0
+2017-06-24 14:19:25,553 - DEBUG - Logged into discord as test-bot
+2017-06-24 14:19:34,214 - DEBUG - !status
+2017-06-24 14:34:23,241 - DEBUG - Starting run
+2017-06-24 14:34:23,241 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 14:34:23,241 - DEBUG - Run complete after: 0
+2017-06-24 14:49:23,228 - DEBUG - Starting run
+2017-06-24 14:49:23,228 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 14:49:23,229 - DEBUG - Run complete after: 0
+2017-06-24 15:04:23,234 - DEBUG - Starting run
+2017-06-24 15:04:23,234 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:04:23,234 - DEBUG - Run complete after: 0
+2017-06-24 15:19:23,239 - DEBUG - Starting run
+2017-06-24 15:19:23,239 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:19:23,239 - DEBUG - Run complete after: 0
+2017-06-24 15:24:52,023 - DEBUG - Connecting to reddit
+2017-06-24 15:24:52,263 - DEBUG - Starting run
+2017-06-24 15:24:52,693 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:24:52,693 - DEBUG - Run complete after: 0
+2017-06-24 15:24:55,031 - DEBUG - Logged into discord as test-bot
+2017-06-24 15:24:59,090 - DEBUG - !status
+2017-06-24 15:25:26,542 - DEBUG - Connecting to reddit
+2017-06-24 15:25:26,547 - DEBUG - Starting run
+2017-06-24 15:25:26,973 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:25:26,973 - DEBUG - Run complete after: 0
+2017-06-24 15:25:29,259 - DEBUG - Logged into discord as test-bot
+2017-06-24 15:25:41,967 - DEBUG - Starting run
+2017-06-24 15:25:41,967 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:25:41,967 - DEBUG - Run complete after: 0
+2017-06-24 15:39:23,113 - DEBUG - Connecting to reddit
+2017-06-24 15:39:23,117 - DEBUG - Starting run
+2017-06-24 15:39:23,540 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:39:23,540 - DEBUG - Run complete after: 0
+2017-06-24 15:39:25,834 - DEBUG - Logged into discord as test-bot
+2017-06-24 15:39:38,541 - DEBUG - Starting run
+2017-06-24 15:39:38,541 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:39:38,542 - DEBUG - Run complete after: 0
+2017-06-24 15:39:53,551 - DEBUG - Starting run
+2017-06-24 15:39:53,551 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:39:53,552 - DEBUG - Run complete after: 0
+2017-06-24 15:40:08,552 - DEBUG - Starting run
+2017-06-24 15:40:08,552 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:40:08,553 - DEBUG - Run complete after: 0
+2017-06-24 15:40:23,553 - DEBUG - Starting run
+2017-06-24 15:40:23,554 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:40:23,554 - DEBUG - Run complete after: 0
+2017-06-24 15:40:38,555 - DEBUG - Starting run
+2017-06-24 15:40:38,555 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:40:38,556 - DEBUG - Run complete after: 0
+2017-06-24 15:41:01,380 - DEBUG - Connecting to reddit
+2017-06-24 15:41:01,383 - DEBUG - Starting run
+2017-06-24 15:41:01,850 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:41:01,850 - DEBUG - Run complete after: 0
+2017-06-24 15:41:04,173 - DEBUG - Logged into discord as test-bot
+2017-06-24 15:41:16,848 - DEBUG - Starting run
+2017-06-24 15:41:31,644 - DEBUG - Connecting to reddit
+2017-06-24 15:41:31,648 - DEBUG - Starting run
+2017-06-24 15:41:32,103 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:41:32,103 - DEBUG - Run complete after: 0
+2017-06-24 15:41:34,350 - DEBUG - Logged into discord as test-bot
+2017-06-24 15:41:47,106 - DEBUG - Starting run
+2017-06-24 15:41:47,106 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:41:47,107 - DEBUG - Run complete after: 0
+2017-06-24 15:45:05,376 - DEBUG - Connecting to reddit
+2017-06-24 15:45:05,381 - DEBUG - Starting run
+2017-06-24 15:45:06,037 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:45:06,037 - DEBUG - Run complete after: 0
+2017-06-24 15:45:08,307 - DEBUG - Logged into discord as test-bot
+2017-06-24 15:45:21,025 - DEBUG - Starting run
+2017-06-24 15:45:21,025 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:45:21,025 - DEBUG - Run complete after: 0
+2017-06-24 15:45:22,642 - DEBUG - !status
+2017-06-24 15:45:36,030 - DEBUG - Starting run
+2017-06-24 15:45:36,030 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:45:36,030 - DEBUG - Run complete after: 0
+2017-06-24 15:45:51,033 - DEBUG - Starting run
+2017-06-24 15:45:51,033 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-06-24 15:45:51,033 - DEBUG - Run complete after: 0
+2017-07-09 16:35:37,912 - DEBUG - Connecting to reddit
+2017-07-09 16:35:38,441 - DEBUG - Starting run
+2017-07-09 16:35:39,001 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 16:35:39,002 - DEBUG - Run complete after: 0
+2017-07-09 16:35:41,466 - DEBUG - Logged into discord as test-bot
+2017-07-09 16:35:53,988 - DEBUG - Starting run
+2017-07-09 16:35:53,988 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 16:35:53,988 - DEBUG - Run complete after: 0
+2017-07-09 16:35:54,293 - DEBUG - !status
+2017-07-09 16:35:59,133 - DEBUG - !stop
+2017-07-09 16:38:04,184 - DEBUG - Connecting to reddit
+2017-07-09 16:38:04,187 - DEBUG - Starting run
+2017-07-09 16:38:04,887 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 16:38:04,887 - DEBUG - Run complete after: 0
+2017-07-09 16:38:07,139 - DEBUG - Logged into discord as test-bot
+2017-07-09 16:38:15,448 - DEBUG - !status
+2017-07-09 16:38:19,886 - DEBUG - Starting run
+2017-07-09 16:38:19,887 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 16:38:19,887 - DEBUG - Run complete after: 0
+2017-07-09 16:51:20,728 - DEBUG - Connecting to reddit
+2017-07-09 16:51:20,732 - DEBUG - Starting run
+2017-07-09 16:51:21,197 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 16:51:21,197 - DEBUG - Run complete after: 0
+2017-07-09 16:51:23,551 - DEBUG - Logged into discord as test-bot
+2017-07-09 16:51:33,922 - DEBUG - !status
+2017-07-09 16:51:36,193 - DEBUG - Starting run
+2017-07-09 16:51:36,193 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 16:51:36,193 - DEBUG - Run complete after: 0
+2017-07-09 17:09:17,629 - DEBUG - Connecting to reddit
+2017-07-09 17:09:17,634 - DEBUG - Starting run
+2017-07-09 17:09:18,088 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:09:18,089 - DEBUG - Run complete after: 0
+2017-07-09 17:09:20,401 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:09:25,537 - DEBUG - !stop
+2017-07-09 17:12:42,937 - DEBUG - Connecting to reddit
+2017-07-09 17:12:42,940 - DEBUG - Starting run
+2017-07-09 17:12:43,409 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:12:43,409 - DEBUG - Run complete after: 0
+2017-07-09 17:12:45,653 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:12:50,205 - DEBUG - !stop
+2017-07-09 17:12:58,416 - DEBUG - Starting run
+2017-07-09 17:12:58,417 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:12:58,417 - DEBUG - Run complete after: 0
+2017-07-09 17:15:54,983 - DEBUG - Connecting to reddit
+2017-07-09 17:15:54,986 - DEBUG - Starting run
+2017-07-09 17:15:55,427 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:15:55,427 - DEBUG - Run complete after: 0
+2017-07-09 17:15:57,776 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:16:02,025 - DEBUG - !stop
+2017-07-09 17:16:17,494 - DEBUG - Connecting to reddit
+2017-07-09 17:16:17,498 - DEBUG - Starting run
+2017-07-09 17:16:17,979 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:16:17,979 - DEBUG - Run complete after: 0
+2017-07-09 17:16:20,260 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:16:25,853 - DEBUG - !stop
+2017-07-09 17:17:28,121 - DEBUG - Connecting to reddit
+2017-07-09 17:17:28,125 - DEBUG - Starting run
+2017-07-09 17:17:28,530 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:17:28,530 - DEBUG - Run complete after: 0
+2017-07-09 17:17:30,797 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:17:33,779 - DEBUG - !stop
+2017-07-09 17:21:18,429 - DEBUG - Connecting to reddit
+2017-07-09 17:21:18,433 - DEBUG - Starting run
+2017-07-09 17:21:19,166 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:21:19,166 - DEBUG - Run complete after: 0
+2017-07-09 17:21:21,485 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:21:25,341 - DEBUG - !stop
+2017-07-09 17:26:01,685 - DEBUG - Connecting to reddit
+2017-07-09 17:26:01,689 - DEBUG - Starting run
+2017-07-09 17:26:02,110 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:26:02,110 - DEBUG - Run complete after: 0
+2017-07-09 17:26:04,366 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:26:10,944 - DEBUG - !stop
+2017-07-09 17:26:42,104 - DEBUG - Connecting to reddit
+2017-07-09 17:26:42,109 - DEBUG - Starting run
+2017-07-09 17:26:42,639 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:26:42,639 - DEBUG - Run complete after: 0
+2017-07-09 17:26:44,954 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:26:45,825 - DEBUG - !stop
+2017-07-09 17:28:37,369 - DEBUG - Connecting to reddit
+2017-07-09 17:28:37,373 - DEBUG - Starting run
+2017-07-09 17:28:37,852 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:28:37,852 - DEBUG - Run complete after: 0
+2017-07-09 17:28:40,122 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:28:41,886 - DEBUG - !stop
+2017-07-09 17:30:24,371 - DEBUG - Connecting to reddit
+2017-07-09 17:30:24,373 - DEBUG - Starting run
+2017-07-09 17:30:24,858 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:30:24,858 - DEBUG - Run complete after: 0
+2017-07-09 17:30:27,130 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:30:40,424 - DEBUG - Connecting to reddit
+2017-07-09 17:30:40,429 - DEBUG - Starting run
+2017-07-09 17:30:40,868 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:30:40,868 - DEBUG - Run complete after: 0
+2017-07-09 17:30:43,162 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:30:44,889 - DEBUG - !stop
+2017-07-09 17:32:04,341 - DEBUG - Connecting to reddit
+2017-07-09 17:32:04,344 - DEBUG - Starting run
+2017-07-09 17:32:04,777 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:32:04,777 - DEBUG - Run complete after: 0
+2017-07-09 17:32:07,185 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:32:10,343 - DEBUG - !stop
+2017-07-09 17:32:10,344 - DEBUG - Entering close_bot
+2017-07-09 17:32:10,344 - DEBUG - Logging out client
+2017-07-09 17:32:10,344 - DEBUG - Stopping loop
+2017-07-09 17:32:10,344 - DEBUG - Running pending tasks
+2017-07-09 17:37:41,603 - DEBUG - Connecting to reddit
+2017-07-09 17:37:41,835 - DEBUG - Starting run
+2017-07-09 17:37:42,295 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:37:42,295 - DEBUG - Run complete after: 0
+2017-07-09 17:37:44,612 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:37:47,853 - DEBUG - !stop
+2017-07-09 17:37:47,853 - DEBUG - Entering close_bot
+2017-07-09 17:37:47,853 - DEBUG - Logging out client
+2017-07-09 17:37:47,853 - DEBUG - Stopping loop
+2017-07-09 17:37:47,853 - DEBUG - Running pending tasks
+2017-07-09 17:46:38,045 - DEBUG - Connecting to reddit
+2017-07-09 17:46:38,048 - DEBUG - Starting run
+2017-07-09 17:46:39,876 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 17:46:39,876 - DEBUG - Run complete after: 1
+2017-07-09 17:46:42,218 - DEBUG - Logged into discord as test-bot
+2017-07-09 17:46:42,921 - DEBUG - !stop
+2017-07-09 17:46:42,921 - DEBUG - Entering close_bot
+2017-07-09 17:46:42,921 - DEBUG - Logging out client
+2017-07-09 17:46:42,921 - DEBUG - Stopping loop
+2017-07-09 17:46:42,922 - DEBUG - Running pending tasks
+2017-07-09 18:18:08,784 - DEBUG - Connecting to reddit
+2017-07-09 18:18:08,790 - DEBUG - Starting run
+2017-07-09 18:18:09,251 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:18:09,252 - DEBUG - Run complete after: 0
+2017-07-09 18:18:23,541 - DEBUG - Connecting to reddit
+2017-07-09 18:18:23,547 - DEBUG - Starting run
+2017-07-09 18:18:24,038 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:18:24,038 - DEBUG - Run complete after: 0
+2017-07-09 18:19:08,325 - DEBUG - Connecting to reddit
+2017-07-09 18:19:08,329 - DEBUG - Starting run
+2017-07-09 18:19:08,755 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:19:08,755 - DEBUG - Run complete after: 0
+2017-07-09 18:19:16,598 - DEBUG - Connecting to reddit
+2017-07-09 18:19:16,602 - DEBUG - Starting run
+2017-07-09 18:19:17,063 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:19:17,063 - DEBUG - Run complete after: 0
+2017-07-09 18:19:34,066 - DEBUG - Connecting to reddit
+2017-07-09 18:19:34,071 - DEBUG - Starting run
+2017-07-09 18:19:35,152 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:19:35,152 - DEBUG - Run complete after: 1
+2017-07-09 18:19:37,500 - DEBUG - Logged into discord as test-bot
+2017-07-09 18:19:42,768 - DEBUG - !stop
+2017-07-09 18:19:42,769 - DEBUG - Entering close_bot
+2017-07-09 18:19:42,769 - DEBUG - Logging out client
+2017-07-09 18:19:42,769 - DEBUG - Quitting
+2017-07-09 18:20:00,861 - DEBUG - Connecting to reddit
+2017-07-09 18:20:00,867 - DEBUG - Starting run
+2017-07-09 18:20:01,367 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:20:01,367 - DEBUG - Run complete after: 0
+2017-07-09 18:20:03,627 - DEBUG - Logged into discord as test-bot
+2017-07-09 18:20:04,318 - DEBUG - !stop
+2017-07-09 18:20:04,318 - DEBUG - Entering close_bot
+2017-07-09 18:20:04,319 - DEBUG - Logging out client
+2017-07-09 18:20:04,319 - DEBUG - Quitting
+2017-07-09 18:21:27,172 - DEBUG - Connecting to reddit
+2017-07-09 18:21:27,177 - DEBUG - Starting run
+2017-07-09 18:21:27,639 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:21:27,640 - DEBUG - Run complete after: 0
+2017-07-09 18:21:29,884 - DEBUG - Logged into discord as test-bot
+2017-07-09 18:21:31,660 - DEBUG - !stop
+2017-07-09 18:21:31,660 - DEBUG - Entering close_bot
+2017-07-09 18:21:31,661 - DEBUG - Logging out client
+2017-07-09 18:21:31,661 - DEBUG - Quitting
+2017-07-09 18:22:26,299 - DEBUG - Connecting to reddit
+2017-07-09 18:22:26,303 - DEBUG - Starting run
+2017-07-09 18:22:26,764 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:22:26,764 - DEBUG - Run complete after: 0
+2017-07-09 18:22:29,136 - DEBUG - Logged into discord as test-bot
+2017-07-09 18:22:32,731 - DEBUG - !stop
+2017-07-09 18:22:32,731 - DEBUG - Entering close_bot
+2017-07-09 18:22:32,731 - DEBUG - Logging out client
+2017-07-09 18:22:32,731 - DEBUG - Quitting
+2017-07-09 18:27:37,397 - DEBUG - Connecting to reddit
+2017-07-09 18:27:37,400 - DEBUG - Starting run
+2017-07-09 18:27:38,034 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:27:38,034 - DEBUG - Run complete after: 0
+2017-07-09 18:27:40,353 - DEBUG - Logged into discord as test-bot
+2017-07-09 18:27:44,133 - DEBUG - !stop
+2017-07-09 18:27:44,133 - DEBUG - Entering close_bot
+2017-07-09 18:27:44,133 - DEBUG - Logging out client
+2017-07-09 18:27:44,133 - DEBUG - Quitting
+2017-07-09 18:29:59,410 - DEBUG - Connecting to reddit
+2017-07-09 18:29:59,414 - DEBUG - Starting run
+2017-07-09 18:29:59,921 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:29:59,921 - DEBUG - Run complete after: 0
+2017-07-09 18:30:02,162 - DEBUG - Logged into discord as test-bot
+2017-07-09 18:30:14,913 - DEBUG - Starting run
+2017-07-09 18:30:14,913 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:30:14,913 - DEBUG - Run complete after: 0
+2017-07-09 18:35:09,542 - DEBUG - Connecting to reddit
+2017-07-09 18:35:09,545 - DEBUG - Starting run
+2017-07-09 18:35:10,273 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:35:10,273 - DEBUG - Run complete after: 0
+2017-07-09 18:35:12,747 - DEBUG - Logged into discord as test-bot
+2017-07-09 18:35:25,280 - DEBUG - Starting run
+2017-07-09 18:35:25,280 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:35:25,280 - DEBUG - Run complete after: 0
+2017-07-09 18:35:28,181 - DEBUG - Connecting to reddit
+2017-07-09 18:35:28,186 - DEBUG - Starting run
+2017-07-09 18:35:28,620 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:35:28,620 - DEBUG - Run complete after: 0
+2017-07-09 18:35:30,887 - DEBUG - Logged into discord as test-bot
+2017-07-09 18:35:43,623 - DEBUG - Starting run
+2017-07-09 18:35:43,623 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:35:43,623 - DEBUG - Run complete after: 0
+2017-07-09 18:36:22,609 - DEBUG - Connecting to reddit
+2017-07-09 18:36:22,611 - DEBUG - Starting run
+2017-07-09 18:36:23,059 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:36:23,059 - DEBUG - Run complete after: 0
+2017-07-09 18:36:26,245 - DEBUG - Logged into discord as test-bot
+2017-07-09 18:36:26,245 - DEBUG - None
+2017-07-09 18:37:19,303 - DEBUG - Connecting to reddit
+2017-07-09 18:37:19,306 - DEBUG - Starting run
+2017-07-09 18:37:19,788 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:37:19,788 - DEBUG - Run complete after: 0
+2017-07-09 18:37:22,051 - DEBUG - Logged into discord as test-bot
+2017-07-09 18:37:22,052 - DEBUG - None
+2017-07-09 18:37:34,786 - DEBUG - Starting run
+2017-07-09 18:37:34,786 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:37:34,786 - DEBUG - Run complete after: 0
+2017-07-09 18:40:03,937 - DEBUG - Connecting to reddit
+2017-07-09 18:40:04,162 - DEBUG - Starting run
+2017-07-09 18:40:05,048 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:40:05,049 - DEBUG - Run complete after: 0
+2017-07-09 18:40:14,541 - DEBUG - Logged into discord as test-bot
+2017-07-09 18:40:14,542 - DEBUG - None
+2017-07-09 18:42:10,206 - DEBUG - Connecting to reddit
+2017-07-09 18:42:10,208 - DEBUG - Starting run
+2017-07-09 18:42:10,633 - INFO - Logged into reddit as /u/Watchful1BotTest
+2017-07-09 18:42:10,633 - DEBUG - Run complete after: 0
