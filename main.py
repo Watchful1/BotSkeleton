@@ -9,6 +9,7 @@ import configparser
 import signal
 import discord
 import asyncio
+import functools
 
 ### Config ###
 LOG_FOLDER_NAME = "logs"
@@ -41,16 +42,23 @@ if LOG_FILENAME is not None:
 	log.addHandler(log_fileHandler)
 
 
-async def close_bot(source):
-	await send_message("Bot closed: "+source)
-	quit()
+pendingTasks = None
+
+
+def close_bot(source):
+	pendingTasks.cancel()
+	client.loop.call_soon_threadsafe(client.loop.stop)
 
 
 def signal_handler(signal, frame):
-	log.info("Handling interupt")
+	log.info("Handling interrupt")
+	log.info("Bot closed: sigint")
+	sync_send_message("Bot closed: sigint")
 	close_bot("sigint")
 
+
 signal.signal(signal.SIGINT, signal_handler)
+
 
 log.debug("Connecting to reddit")
 
@@ -124,7 +132,7 @@ async def on_ready():
 				logging.Handler.__init__(self)
 
 			def emit(self, record):
-				asyncio.ensure_future(send_message(record.message), loop=asyncio.get_event_loop())
+				sync_send_message(record.message)
 
 		logging.handlers.DiscordHandler = DiscordHandler
 		discord_stderrHandler = logging.handlers.DiscordHandler()
@@ -149,13 +157,25 @@ async def on_message(message):
 			await client.send_message(message.channel, "Running")
 
 		elif message.content == "!stop":
-			await close_bot("discord")
+			log.debug("Bot closed: discord")
+			await send_message("Bot closed: discord")
+			close_bot("discord")
+
+
+def sync_send_message(message):
+	asyncio.ensure_future(send_message(message), loop=client.loop)
 
 
 async def send_message(message):
 	await client.send_message(channel, message)
 
 
-client.loop.create_task(main())
-client.run(config.get("discord","token"))
-
+pendingTasks = client.loop.create_task(main())
+try:
+	done, pendingTasks = client.loop.run_until_complete(client.start(config.get("discord", "token")))
+except KeyboardInterrupt:
+	client.loop.run_until_complete(client.logout())
+except RuntimeError:
+	pass
+finally:
+	client.loop.close()
