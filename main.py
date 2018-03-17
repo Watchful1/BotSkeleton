@@ -13,12 +13,15 @@ import traceback
 LOG_FOLDER_NAME = "logs"
 SUBREDDIT = "default"
 USER_AGENT = "default (by /u/Watchful1)"
-LOOP_TIME = 15*60
+LOOP_TIME = 15
+CONFIG_FILE_NAME = "config.ini"
+DISCORD_OWNER = "Watchful1#8126"
+REDDIT_OWNER = "Watchful1"
 
 ### Logging setup ###
 LOG_LEVEL = logging.DEBUG
 if not os.path.exists(LOG_FOLDER_NAME):
-    os.makedirs(LOG_FOLDER_NAME)
+	os.makedirs(LOG_FOLDER_NAME)
 LOG_FILENAME = LOG_FOLDER_NAME+"/"+"bot.log"
 LOG_FILE_BACKUPCOUNT = 5
 LOG_FILE_MAXSIZE = 1024 * 256 * 16
@@ -42,6 +45,7 @@ def signal_handler(signal, frame):
 
 
 signal.signal(signal.SIGINT, signal_handler)
+
 
 log.debug("Connecting to reddit")
 
