@@ -24,7 +24,7 @@ if not os.path.exists(LOG_FOLDER_NAME):
 	os.makedirs(LOG_FOLDER_NAME)
 LOG_FILENAME = LOG_FOLDER_NAME+"/"+"bot.log"
 LOG_FILE_BACKUPCOUNT = 5
-LOG_FILE_MAXSIZE = 1024 * 256 * 16
+LOG_FILE_MAXSIZE = 1024 * 256 * 64
 
 log = logging.getLogger("bot")
 log.setLevel(LOG_LEVEL)
@@ -75,10 +75,16 @@ except configparser.NoSectionError:
 log.info("Logged into reddit as /u/{}".format(str(r.user.me())))
 
 while True:
-	startTime = time.perf_counter()
-	log.debug("Starting run")
+	try:
+		startTime = time.perf_counter()
+		log.debug("Starting run")
 
-	log.debug("Run complete after: %d", int(time.perf_counter() - startTime))
+		log.debug("Run complete after: %d", int(time.perf_counter() - startTime))
+	except Exception as err:
+		log.warning("Hit an error in main loop")
+		log.warning(traceback.format_exc())
+
 	if once:
 		break
+
 	time.sleep(LOOP_TIME)
